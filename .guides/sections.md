@@ -286,20 +286,3 @@ Play again: type 'y'? n
 bye!
 ```
 
-
----
-title: Conclusion
-files: []
-
----
-### Come back to these tasks after you covered GUI.
-
-Implement these programs first with a menu interface as given, then using Tkinter GUI. 
-
-**Additional extension:** you might want to supply Tkinter buttons for the common features, e.g. “turn right”, etc as the speleologist will be likely carrying a touchscreen device where pressing a button is easier than typing. Of course, there should still be the facility to type new features directly.
----
-title: Example section 4
-editable: true
-
----
-Some **awesome** content 4
