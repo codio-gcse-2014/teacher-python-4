@@ -52,7 +52,8 @@ for i in range(0,4):
 for j in list_customers:
     print (j.name,j.appt)
     
-#Double Booking  - Code error?   
+#Double Booking 
+
 def dbl_book(new_cust):
     appt_times=[j.appt for j in list_customers]
     if new_cust.appt in appt_times:
